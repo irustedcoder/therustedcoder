@@ -1,2 +1,2 @@
 # Hello World 👋
-I'm Mohamed Emam
+I'm Mohamed Emam, a Frontend Developer
